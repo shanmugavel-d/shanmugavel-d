@@ -1,6 +1,6 @@
 # Hi, I'm Shanmugavel!
 
-Welcome to my GitHub profile! I'm passionate about data science and big data, and I'm constantly learning and exploring new concepts in these fields. If you share the same interests, let's connect and collaborate on some exciting projects!
+Welcome to my GitHub profile! I'm passionate about business analyst and data science, and I'm constantly learning and exploring new concepts in these fields. If you share the same interests, let's connect and collaborate on some exciting projects!
 
 ## About Me
 
@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about data science and big data, an
 - 🌱 I'm currently learning various data science techniques and tools, including Python, machine learning, and big data technologies.
 - 💼 I have experience working with Python for data analysis and visualization, as well as SQL for data manipulation and querying.
 - 💞️ I'm eager to collaborate on projects that involve Python programming, data analysis, and machine learning.
-- 📫 You can reach me on [LinkedIn](www.linkedin.com/in/shanmugavel-d-078972141). Let's connect and explore opportunities to work together!
+
 
 ## Projects
 
@@ -23,6 +23,5 @@ Feel free to explore my repositories to find detailed information about these pr
 
 ## Get in Touch
 
-I'm always excited to connect with fellow data science enthusiasts, professionals, and learners. If you have any questions, or ideas, or would like to collaborate on a data science or Python project, feel free to reach out to me on [LinkedIn](www.linkedin.com/in/shanmugavel-d-078972141).
 
 Let's learn, explore, and make meaningful contributions to the world of data science together!
